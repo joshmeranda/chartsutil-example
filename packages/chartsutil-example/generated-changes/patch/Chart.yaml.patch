@@ -5,6 +5,6 @@
  appVersion: 1.16.0
  description: A Helm chart for Kubernetes
 -name: rebase-example
-+name: rancher-rebase-example
++name: chartsutil-example
  type: application
  version: 0.1.0
